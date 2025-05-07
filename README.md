@@ -88,10 +88,7 @@ Software:
 
 ## Authors
 
-Selene Han
-Carolyn Espinosa
-Andy Vo
-Nithmi Jayasundara
+Selene Han, Carolyn Espinosa, Andy Vo, Nithmi Jayasundara
 
 ## Contributors
 
